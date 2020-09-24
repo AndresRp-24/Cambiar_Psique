@@ -1,0 +1,48 @@
+.Cambiar_c {
+  font-family: sans-serif;
+  text-align: center;
+}
+.atras {
+  margin-left: -190px;
+  background: none;
+  border: none;
+  margin-top: 10px;
+}
+.contraseña1 {
+  margin-right: 10px;
+  font-size: 15px;
+  margin-left: -28%;
+  margin-top: 10px;
+}
+.Contraseña {
+  margin-right: 60px;
+  background: none;
+  margin-bottom: 30px;
+}
+.nueva1 {
+  margin-right: 10px;
+  font-size: 15px;
+  margin-left: -28%;
+  margin-bottom: 20px;
+}
+.Nueva {
+  margin-right: 60px;
+  background: none;
+  margin-bottom: 30px;
+}
+.vuelva1 {
+  margin-right: -70px;
+  font-size: 15px;
+  margin-left: -28%;
+  margin-bottom: 20px;
+}
+.vuelva {
+  margin-right: 60px;
+  background: none;
+  margin-bottom: 30px;
+}
+.cambia {
+  background-color: rgb(7, 226, 241);
+  border: none;
+  color: white;
+}
